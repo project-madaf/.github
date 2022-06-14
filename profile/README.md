@@ -1,4 +1,6 @@
-# Project MADAF
+<div align="center" style="display : flex; justify-content: center;">
+  <h1>Project MADAF</h1>
+</div>
 
 This organization hosts all repository that contains all things:
 - That are related to MADAF.
